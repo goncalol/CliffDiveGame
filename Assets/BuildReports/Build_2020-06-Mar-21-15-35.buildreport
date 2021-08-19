@@ -1,0 +1,4602 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1126 &-8722823153565427883
+PackedAssets:
+  m_File: 38
+  m_ShortPath: 54d1085f9a2fdea4587fcfc7dddcd4bc
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 114
+    packedSize: 2176
+    sourceAssetGUID: 54d1085f9a2fdea4587fcfc7dddcd4bc
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+--- !u!1126 &-8058397239444616501
+PackedAssets:
+  m_File: 54
+  m_ShortPath: c296aaf4cf94cf3448846dd7f6d9b407
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 213
+    packedSize: 3872
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+--- !u!1126 &-7694546551221052960
+PackedAssets:
+  m_File: 56
+  m_ShortPath: d37b1512245a86f4fa830a2e6488a787
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 109
+    packedSize: 24
+    sourceAssetGUID: d37b1512245a86f4fa830a2e6488a787
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+--- !u!1126 &-7432398968410400107
+PackedAssets:
+  m_File: 41
+  m_ShortPath: 723c410b6e1901c408b1e6a62daed5df
+  m_Overhead: 4100
+  m_Contents:
+  - fileID: 1
+    classID: 28
+    packedSize: 73068
+    sourceAssetGUID: 723c410b6e1901c408b1e6a62daed5df
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-4.png
+  - fileID: 2
+    classID: 213
+    packedSize: 704
+    sourceAssetGUID: 723c410b6e1901c408b1e6a62daed5df
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-4.png
+--- !u!1126 &-6450175309741703361
+PackedAssets:
+  m_File: 42
+  m_ShortPath: 728b5bb3aef684c4daa3acf7a00a5d5f
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 49
+    packedSize: 1048
+    sourceAssetGUID: 728b5bb3aef684c4daa3acf7a00a5d5f
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.xml
+--- !u!1126 &-6436951302712773242
+PackedAssets:
+  m_File: 63
+  m_ShortPath: sharedassets0.resource
+  m_Overhead: 0
+  m_Contents:
+  - fileID: 0
+    classID: 83
+    packedSize: 1248
+    sourceAssetGUID: cdeea12702d06574d9fb1531d06e71a6
+    buildTimeAssetPath: Assets/Sound/warning.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 1664
+    sourceAssetGUID: 74d3cb65784db864cb6f0f4a8a91cc55
+    buildTimeAssetPath: Assets/Sound/dodge_new_2.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 1728
+    sourceAssetGUID: 6377a0e6efc9c6d47937393921bbb281
+    buildTimeAssetPath: Assets/Sound/btnclick.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 2432
+    sourceAssetGUID: 9b06fc3028057cc4797326a028ce0f58
+    buildTimeAssetPath: Assets/Sound/coin.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 23968
+    sourceAssetGUID: a123c19e4f3f9874698a620db107e921
+    buildTimeAssetPath: Assets/Sound/hit.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 25344
+    sourceAssetGUID: c54e9a3a016edeb42aca35849b6e725e
+    buildTimeAssetPath: Assets/Sound/smash2.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 37920
+    sourceAssetGUID: ea649e041d42339478261b3402859b90
+    buildTimeAssetPath: Assets/Sound/rocks_fall.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 545920
+    sourceAssetGUID: d7e9ebacfc6e8c046b578bc50096040a
+    buildTimeAssetPath: Assets/Sound/wind.wav
+--- !u!1126 &-6305119991782470600
+PackedAssets:
+  m_File: 49
+  m_ShortPath: a423cd5908af21a47ae43597db0b17d8
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 49
+    packedSize: 564
+    sourceAssetGUID: a423cd5908af21a47ae43597db0b17d8
+    buildTimeAssetPath: Assets/Resources/Sprites/face_rage.xml
+--- !u!1126 &-5944633483125739097
+PackedAssets:
+  m_File: 53
+  m_ShortPath: bc2d34f37efcbdf429ed46cb34aa2ad5
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 109
+    packedSize: 24
+    sourceAssetGUID: bc2d34f37efcbdf429ed46cb34aa2ad5
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+--- !u!1126 &-3838988546554311495
+PackedAssets:
+  m_File: 45
+  m_ShortPath: 8e6b9842dbb1a5a4887378afab854e63
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 48
+    packedSize: 40220
+    sourceAssetGUID: 8e6b9842dbb1a5a4887378afab854e63
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+--- !u!1126 &-3758673276645398905
+PackedAssets:
+  m_File: 40
+  m_ShortPath: 6ec706981a919c3489f0b061a40054e2
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 28
+    packedSize: 349656
+    sourceAssetGUID: 6ec706981a919c3489f0b061a40054e2
+    buildTimeAssetPath: Assets/TextMesh Pro/Sprites/EmojiOne.png
+--- !u!1126 &-3737446604792092138
+PackedAssets:
+  m_File: 44
+  m_ShortPath: 8d713940fcbede142ae4a33ea0062b33
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 49
+    packedSize: 144
+    sourceAssetGUID: 8d713940fcbede142ae4a33ea0062b33
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+--- !u!1126 &-2875281310827148613
+PackedAssets:
+  m_File: 57
+  m_ShortPath: da38a3dcabcd7f649a5a06cb2dabb637
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 49
+    packedSize: 1092
+    sourceAssetGUID: da38a3dcabcd7f649a5a06cb2dabb637
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.xml
+--- !u!1126 &-2422125257771367266
+PackedAssets:
+  m_File: 33
+  m_ShortPath: 379b74ab0b03e5344acba61cfdd852e9
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 213
+    packedSize: 1296
+    sourceAssetGUID: 379b74ab0b03e5344acba61cfdd852e9
+    buildTimeAssetPath: Assets/Resources/Sprites/smoke.png
+--- !u!1126 &-797345950670634994
+PackedAssets:
+  m_File: 39
+  m_ShortPath: 69ed5bac41eebaa4c97e9d2a4168c54f
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 114
+    packedSize: 240
+    sourceAssetGUID: 69ed5bac41eebaa4c97e9d2a4168c54f
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/TMP Settings.asset
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Build_2020-06-Mar-21-15-35
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 637191259960707792
+    buildGUID: 8478c5607ba384a479ab32c150edd60a
+    platformName: Android
+    platformGroupName: Android
+    options: 8
+    assetBundleOptions: 0
+    outputPath: C:/Users/Gonca/Desktop/1.apk
+    crc: 0
+    totalSize: 181909939
+    totalTimeTicks: 1319009774
+    totalErrors: 0
+    totalWarnings: 2
+    buildType: 1
+    buildResult: 1
+  m_Files:
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
+    role: ManagedLibrary
+    id: 0
+    totalSize: 34816
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll
+    role: ManagedLibrary
+    id: 1
+    totalSize: 258560
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/TextMeshPro-2017.3-Runtime.dll
+    role: ManagedLibrary
+    id: 2
+    totalSize: 314368
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Diagnostics.StackTrace.dll
+    role: DependentManagedLibrary
+    id: 3
+    totalSize: 6656
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Globalization.Extensions.dll
+    role: DependentManagedLibrary
+    id: 4
+    totalSize: 6144
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.Xml.dll
+    role: DependentManagedLibrary
+    id: 5
+    totalSize: 7168
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Xml.XPath.XDocument.dll
+    role: DependentManagedLibrary
+    id: 6
+    totalSize: 5120
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/netstandard.dll
+    role: DependentManagedLibrary
+    id: 7
+    totalSize: 84992
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/Mono.Security.dll
+    role: DependentManagedLibrary
+    id: 8
+    totalSize: 310272
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.ComponentModel.Composition.dll
+    role: DependentManagedLibrary
+    id: 9
+    totalSize: 247808
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Configuration.dll
+    role: DependentManagedLibrary
+    id: 10
+    totalSize: 43008
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Core.dll
+    role: DependentManagedLibrary
+    id: 11
+    totalSize: 1053184
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Data.dll
+    role: DependentManagedLibrary
+    id: 12
+    totalSize: 1941504
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Drawing.dll
+    role: DependentManagedLibrary
+    id: 13
+    totalSize: 184320
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.EnterpriseServices.dll
+    role: DependentManagedLibrary
+    id: 14
+    totalSize: 33280
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.IO.Compression.FileSystem.dll
+    role: DependentManagedLibrary
+    id: 15
+    totalSize: 23040
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.IO.Compression.dll
+    role: DependentManagedLibrary
+    id: 16
+    totalSize: 98816
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Net.Http.dll
+    role: DependentManagedLibrary
+    id: 17
+    totalSize: 114688
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Numerics.dll
+    role: DependentManagedLibrary
+    id: 18
+    totalSize: 114176
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.dll
+    role: DependentManagedLibrary
+    id: 19
+    totalSize: 840704
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.ServiceModel.Internals.dll
+    role: DependentManagedLibrary
+    id: 20
+    totalSize: 218112
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Transactions.dll
+    role: DependentManagedLibrary
+    id: 21
+    totalSize: 33280
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Xml.Linq.dll
+    role: DependentManagedLibrary
+    id: 22
+    totalSize: 119296
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.Xml.dll
+    role: DependentManagedLibrary
+    id: 23
+    totalSize: 2414592
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/System.dll
+    role: DependentManagedLibrary
+    id: 24
+    totalSize: 2131456
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Managed/mscorlib.dll
+    role: DependentManagedLibrary
+    id: 25
+    totalSize: 3772928
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/globalgamemanagers
+    role: GlobalGameManagers
+    id: 26
+    totalSize: 47072
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/level0
+    role: Scene
+    id: 27
+    totalSize: 114688
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/00a0dd68a932e0b4cabca01cdd32b72d
+    role: SharedAssets
+    id: 28
+    totalSize: 5692
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/06b368452006e464fba03cee782ce607
+    role: SharedAssets
+    id: 29
+    totalSize: 1444676
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/195d1f257f73aab4e8292f533ad4336e
+    role: SharedAssets
+    id: 30
+    totalSize: 4908
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/1e789862a7531a34bbb249a1bb383d3a
+    role: SharedAssets
+    id: 31
+    totalSize: 4468
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/312ba5b9e90627940866e19549a788cf
+    role: SharedAssets
+    id: 32
+    totalSize: 4408
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/379b74ab0b03e5344acba61cfdd852e9
+    role: SharedAssets
+    id: 33
+    totalSize: 5392
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/3c2ea7753c1425145a74d106ec1cd852
+    role: SharedAssets
+    id: 34
+    totalSize: 23988
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/438defe6a2827704f90bdf852732bc11
+    role: SharedAssets
+    id: 35
+    totalSize: 4112
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/4a447881117944c4ba696f9adc65a9c5
+    role: SharedAssets
+    id: 36
+    totalSize: 1645492
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/4a7755d6b5b67874f89c85f56f95fe97
+    role: SharedAssets
+    id: 37
+    totalSize: 21056
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/54d1085f9a2fdea4587fcfc7dddcd4bc
+    role: SharedAssets
+    id: 38
+    totalSize: 6272
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/69ed5bac41eebaa4c97e9d2a4168c54f
+    role: SharedAssets
+    id: 39
+    totalSize: 4336
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/6ec706981a919c3489f0b061a40054e2
+    role: SharedAssets
+    id: 40
+    totalSize: 353752
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/723c410b6e1901c408b1e6a62daed5df
+    role: SharedAssets
+    id: 41
+    totalSize: 77872
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/728b5bb3aef684c4daa3acf7a00a5d5f
+    role: SharedAssets
+    id: 42
+    totalSize: 5144
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/88dc19c5874aabc43aaaaa05b0e8165d
+    role: SharedAssets
+    id: 43
+    totalSize: 1645492
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/8d713940fcbede142ae4a33ea0062b33
+    role: SharedAssets
+    id: 44
+    totalSize: 4240
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/8e6b9842dbb1a5a4887378afab854e63
+    role: SharedAssets
+    id: 45
+    totalSize: 44316
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/9a952e2781ef26940ae089f1053ef4ef
+    role: SharedAssets
+    id: 46
+    totalSize: 5728
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/9ecb3fe313cb5f7478141eba4a2d54ed
+    role: SharedAssets
+    id: 47
+    totalSize: 17276
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/a39842a0aed8d46498785e98d85f066e
+    role: SharedAssets
+    id: 48
+    totalSize: 4556
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/a423cd5908af21a47ae43597db0b17d8
+    role: SharedAssets
+    id: 49
+    totalSize: 4660
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/a56754aa25831cd4287bfb51552f75e4
+    role: SharedAssets
+    id: 50
+    totalSize: 218536
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/afc255f7c2be52e41973a3d10a2e632d
+    role: SharedAssets
+    id: 51
+    totalSize: 19012
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/b68856603b8928646830984a56406eb4
+    role: SharedAssets
+    id: 52
+    totalSize: 1445280
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/bc2d34f37efcbdf429ed46cb34aa2ad5
+    role: SharedAssets
+    id: 53
+    totalSize: 4120
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/c296aaf4cf94cf3448846dd7f6d9b407
+    role: SharedAssets
+    id: 54
+    totalSize: 7968
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/d1cf17907700cb647aa3ea423ba38f2e
+    role: SharedAssets
+    id: 55
+    totalSize: 17512
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/d37b1512245a86f4fa830a2e6488a787
+    role: SharedAssets
+    id: 56
+    totalSize: 4120
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/da38a3dcabcd7f649a5a06cb2dabb637
+    role: SharedAssets
+    id: 57
+    totalSize: 5188
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/e20a07296c6e66b419b78bdd751906f1
+    role: SharedAssets
+    id: 58
+    totalSize: 1645492
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/edfcf888cd11d9245b91d2883049a57e
+    role: SharedAssets
+    id: 59
+    totalSize: 14812
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/f23052e6924408a469944291f8d648d4
+    role: SharedAssets
+    id: 60
+    totalSize: 1645492
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/globalgamemanagers.assets
+    role: SharedAssets
+    id: 61
+    totalSize: 466696
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/sharedassets0.assets
+    role: SharedAssets
+    id: 62
+    totalSize: 18183432
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/sharedassets0.resource
+    role: StreamingResourceFile
+    id: 63
+    totalSize: 640224
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/Resources/unity_builtin_extra
+    role: BuiltInShaders
+    id: 64
+    totalSize: 439936
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/StagingArea/Data/boot.config
+    role: BootConfig
+    id: 65
+    totalSize: 181
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/gradle.properties
+    role: Gradle project gradle.properties
+    id: 66
+    totalSize: 28
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/local.properties
+    role: Gradle project local.properties
+    id: 67
+    totalSize: 57
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/proguard-unity.txt
+    role: Unity Proguard config
+    id: 68
+    totalSize: 124
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/drawable-xhdpi/app_banner.png
+    role: Android resources
+    id: 69
+    totalSize: 14890
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon.xml
+    role: Android resources
+    id: 70
+    totalSize: 266
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon_round.xml
+    role: Android resources
+    id: 71
+    totalSize: 266
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-hdpi/app_icon.png
+    role: Android resources
+    id: 72
+    totalSize: 4756
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-hdpi/app_icon_round.png
+    role: Android resources
+    id: 73
+    totalSize: 4756
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-hdpi/ic_launcher_background.png
+    role: Android resources
+    id: 74
+    totalSize: 8115
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-hdpi/ic_launcher_foreground.png
+    role: Android resources
+    id: 75
+    totalSize: 5595
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-ldpi/app_icon.png
+    role: Android resources
+    id: 76
+    totalSize: 1822
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-ldpi/app_icon_round.png
+    role: Android resources
+    id: 77
+    totalSize: 1822
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-ldpi/ic_launcher_background.png
+    role: Android resources
+    id: 78
+    totalSize: 3422
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-ldpi/ic_launcher_foreground.png
+    role: Android resources
+    id: 79
+    totalSize: 2348
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png
+    role: Android resources
+    id: 80
+    totalSize: 2686
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon_round.png
+    role: Android resources
+    id: 81
+    totalSize: 2686
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_background.png
+    role: Android resources
+    id: 82
+    totalSize: 4917
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_foreground.png
+    role: Android resources
+    id: 83
+    totalSize: 3423
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xhdpi/app_icon.png
+    role: Android resources
+    id: 84
+    totalSize: 6951
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xhdpi/app_icon_round.png
+    role: Android resources
+    id: 85
+    totalSize: 6951
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xhdpi/ic_launcher_background.png
+    role: Android resources
+    id: 86
+    totalSize: 11573
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png
+    role: Android resources
+    id: 87
+    totalSize: 7880
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xxhdpi/app_icon.png
+    role: Android resources
+    id: 88
+    totalSize: 11639
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xxhdpi/app_icon_round.png
+    role: Android resources
+    id: 89
+    totalSize: 11639
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xxhdpi/ic_launcher_background.png
+    role: Android resources
+    id: 90
+    totalSize: 18540
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png
+    role: Android resources
+    id: 91
+    totalSize: 13099
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/app_icon.png
+    role: Android resources
+    id: 92
+    totalSize: 16751
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/app_icon_round.png
+    role: Android resources
+    id: 93
+    totalSize: 16751
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png
+    role: Android resources
+    id: 94
+    totalSize: 25723
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png
+    role: Android resources
+    id: 95
+    totalSize: 18655
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/values/strings.xml
+    role: Android resources
+    id: 96
+    totalSize: 112
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/values/styles.xml
+    role: Android resources
+    id: 97
+    totalSize: 529
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/res/values-v21/styles.xml
+    role: Android resources
+    id: 98
+    totalSize: 169
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/libs/unity-classes.jar
+    role: Unity Java library
+    id: 99
+    totalSize: 92279
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libmain.so
+    role: Native library
+    id: 100
+    totalSize: 22476
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libmonobdwgc-2.0.so
+    role: Native library
+    id: 101
+    totalSize: 5461596
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libMonoPosixHelper.so
+    role: Native library
+    id: 102
+    totalSize: 326948
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libunity.so
+    role: Native library
+    id: 103
+    totalSize: 18690712
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/jniLibs/x86/libmain.so
+    role: Native library
+    id: 104
+    totalSize: 9900
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/jniLibs/x86/libmonobdwgc-2.0.so
+    role: Native library
+    id: 105
+    totalSize: 6147424
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/jniLibs/x86/libMonoPosixHelper.so
+    role: Native library
+    id: 106
+    totalSize: 326660
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/jniLibs/x86/libunity.so
+    role: Native library
+    id: 107
+    totalSize: 22892012
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/00a0dd68a932e0b4cabca01cdd32b72d
+    role: Unity and Android assets
+    id: 108
+    totalSize: 5692
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/06b368452006e464fba03cee782ce607
+    role: Unity and Android assets
+    id: 109
+    totalSize: 1444676
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/195d1f257f73aab4e8292f533ad4336e
+    role: Unity and Android assets
+    id: 110
+    totalSize: 4908
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/1e789862a7531a34bbb249a1bb383d3a
+    role: Unity and Android assets
+    id: 111
+    totalSize: 4468
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/312ba5b9e90627940866e19549a788cf
+    role: Unity and Android assets
+    id: 112
+    totalSize: 4408
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/379b74ab0b03e5344acba61cfdd852e9
+    role: Unity and Android assets
+    id: 113
+    totalSize: 5392
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/3c2ea7753c1425145a74d106ec1cd852
+    role: Unity and Android assets
+    id: 114
+    totalSize: 23988
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/438defe6a2827704f90bdf852732bc11
+    role: Unity and Android assets
+    id: 115
+    totalSize: 4112
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/4a447881117944c4ba696f9adc65a9c5
+    role: Unity and Android assets
+    id: 116
+    totalSize: 1645492
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/4a7755d6b5b67874f89c85f56f95fe97
+    role: Unity and Android assets
+    id: 117
+    totalSize: 21056
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/54d1085f9a2fdea4587fcfc7dddcd4bc
+    role: Unity and Android assets
+    id: 118
+    totalSize: 6272
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/69ed5bac41eebaa4c97e9d2a4168c54f
+    role: Unity and Android assets
+    id: 119
+    totalSize: 4336
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/6ec706981a919c3489f0b061a40054e2
+    role: Unity and Android assets
+    id: 120
+    totalSize: 353752
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/723c410b6e1901c408b1e6a62daed5df
+    role: Unity and Android assets
+    id: 121
+    totalSize: 77872
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/728b5bb3aef684c4daa3acf7a00a5d5f
+    role: Unity and Android assets
+    id: 122
+    totalSize: 5144
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/88dc19c5874aabc43aaaaa05b0e8165d
+    role: Unity and Android assets
+    id: 123
+    totalSize: 1645492
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/8d713940fcbede142ae4a33ea0062b33
+    role: Unity and Android assets
+    id: 124
+    totalSize: 4240
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/8e6b9842dbb1a5a4887378afab854e63
+    role: Unity and Android assets
+    id: 125
+    totalSize: 44316
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/9a952e2781ef26940ae089f1053ef4ef
+    role: Unity and Android assets
+    id: 126
+    totalSize: 5728
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/9ecb3fe313cb5f7478141eba4a2d54ed
+    role: Unity and Android assets
+    id: 127
+    totalSize: 17276
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/a39842a0aed8d46498785e98d85f066e
+    role: Unity and Android assets
+    id: 128
+    totalSize: 4556
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/a423cd5908af21a47ae43597db0b17d8
+    role: Unity and Android assets
+    id: 129
+    totalSize: 4660
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/a56754aa25831cd4287bfb51552f75e4
+    role: Unity and Android assets
+    id: 130
+    totalSize: 218536
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/afc255f7c2be52e41973a3d10a2e632d
+    role: Unity and Android assets
+    id: 131
+    totalSize: 19012
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/b68856603b8928646830984a56406eb4
+    role: Unity and Android assets
+    id: 132
+    totalSize: 1445280
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/bc2d34f37efcbdf429ed46cb34aa2ad5
+    role: Unity and Android assets
+    id: 133
+    totalSize: 4120
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/boot.config
+    role: Unity and Android assets
+    id: 134
+    totalSize: 181
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/c296aaf4cf94cf3448846dd7f6d9b407
+    role: Unity and Android assets
+    id: 135
+    totalSize: 7968
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/d1cf17907700cb647aa3ea423ba38f2e
+    role: Unity and Android assets
+    id: 136
+    totalSize: 17512
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/d37b1512245a86f4fa830a2e6488a787
+    role: Unity and Android assets
+    id: 137
+    totalSize: 4120
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/da38a3dcabcd7f649a5a06cb2dabb637
+    role: Unity and Android assets
+    id: 138
+    totalSize: 5188
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/e20a07296c6e66b419b78bdd751906f1
+    role: Unity and Android assets
+    id: 139
+    totalSize: 1645492
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/edfcf888cd11d9245b91d2883049a57e
+    role: Unity and Android assets
+    id: 140
+    totalSize: 14812
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/f23052e6924408a469944291f8d648d4
+    role: Unity and Android assets
+    id: 141
+    totalSize: 1645492
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/globalgamemanagers
+    role: Unity and Android assets
+    id: 142
+    totalSize: 47072
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/globalgamemanagers.assets
+    role: Unity and Android assets
+    id: 143
+    totalSize: 466696
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/level0
+    role: Unity and Android assets
+    id: 144
+    totalSize: 114688
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll
+    role: Unity and Android assets
+    id: 145
+    totalSize: 34816
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/Mono.Security.dll
+    role: Unity and Android assets
+    id: 146
+    totalSize: 310272
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/mscorlib.dll
+    role: Unity and Android assets
+    id: 147
+    totalSize: 3772928
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/netstandard.dll
+    role: Unity and Android assets
+    id: 148
+    totalSize: 84992
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.ComponentModel.Composition.dll
+    role: Unity and Android assets
+    id: 149
+    totalSize: 247808
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Configuration.dll
+    role: Unity and Android assets
+    id: 150
+    totalSize: 43008
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Core.dll
+    role: Unity and Android assets
+    id: 151
+    totalSize: 1053184
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Data.dll
+    role: Unity and Android assets
+    id: 152
+    totalSize: 1941504
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Diagnostics.StackTrace.dll
+    role: Unity and Android assets
+    id: 153
+    totalSize: 6656
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.dll
+    role: Unity and Android assets
+    id: 154
+    totalSize: 2131456
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Drawing.dll
+    role: Unity and Android assets
+    id: 155
+    totalSize: 184320
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.EnterpriseServices.dll
+    role: Unity and Android assets
+    id: 156
+    totalSize: 33280
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Globalization.Extensions.dll
+    role: Unity and Android assets
+    id: 157
+    totalSize: 6144
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.IO.Compression.dll
+    role: Unity and Android assets
+    id: 158
+    totalSize: 98816
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.IO.Compression.FileSystem.dll
+    role: Unity and Android assets
+    id: 159
+    totalSize: 23040
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Net.Http.dll
+    role: Unity and Android assets
+    id: 160
+    totalSize: 114688
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Numerics.dll
+    role: Unity and Android assets
+    id: 161
+    totalSize: 114176
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Runtime.Serialization.dll
+    role: Unity and Android assets
+    id: 162
+    totalSize: 840704
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Runtime.Serialization.Xml.dll
+    role: Unity and Android assets
+    id: 163
+    totalSize: 7168
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.ServiceModel.Internals.dll
+    role: Unity and Android assets
+    id: 164
+    totalSize: 218112
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Transactions.dll
+    role: Unity and Android assets
+    id: 165
+    totalSize: 33280
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Xml.dll
+    role: Unity and Android assets
+    id: 166
+    totalSize: 2414592
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Xml.Linq.dll
+    role: Unity and Android assets
+    id: 167
+    totalSize: 119296
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Xml.XPath.XDocument.dll
+    role: Unity and Android assets
+    id: 168
+    totalSize: 5120
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/TextMeshPro-2017.3-Runtime.dll
+    role: Unity and Android assets
+    id: 169
+    totalSize: 314368
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AccessibilityModule.dll
+    role: Unity and Android assets
+    id: 170
+    totalSize: 10240
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AIModule.dll
+    role: Unity and Android assets
+    id: 171
+    totalSize: 42496
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll
+    role: Unity and Android assets
+    id: 172
+    totalSize: 138240
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ARModule.dll
+    role: Unity and Android assets
+    id: 173
+    totalSize: 12288
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll
+    role: Unity and Android assets
+    id: 174
+    totalSize: 20480
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AudioModule.dll
+    role: Unity and Android assets
+    id: 175
+    totalSize: 76800
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ClothModule.dll
+    role: Unity and Android assets
+    id: 176
+    totalSize: 14336
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.CoreModule.dll
+    role: Unity and Android assets
+    id: 177
+    totalSize: 945664
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.CrashReportingModule.dll
+    role: Unity and Android assets
+    id: 178
+    totalSize: 8704
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.DirectorModule.dll
+    role: Unity and Android assets
+    id: 179
+    totalSize: 12288
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.dll
+    role: Unity and Android assets
+    id: 180
+    totalSize: 77312
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.FileSystemHttpModule.dll
+    role: Unity and Android assets
+    id: 181
+    totalSize: 8192
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.GameCenterModule.dll
+    role: Unity and Android assets
+    id: 182
+    totalSize: 26112
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.GridModule.dll
+    role: Unity and Android assets
+    id: 183
+    totalSize: 12800
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.HotReloadModule.dll
+    role: Unity and Android assets
+    id: 184
+    totalSize: 8192
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll
+    role: Unity and Android assets
+    id: 185
+    totalSize: 9216
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll
+    role: Unity and Android assets
+    id: 186
+    totalSize: 148480
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.InputModule.dll
+    role: Unity and Android assets
+    id: 187
+    totalSize: 11264
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll
+    role: Unity and Android assets
+    id: 188
+    totalSize: 9728
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.LocalizationModule.dll
+    role: Unity and Android assets
+    id: 189
+    totalSize: 9216
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll
+    role: Unity and Android assets
+    id: 190
+    totalSize: 129024
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+    role: Unity and Android assets
+    id: 191
+    totalSize: 8704
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll
+    role: Unity and Android assets
+    id: 192
+    totalSize: 106496
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll
+    role: Unity and Android assets
+    id: 193
+    totalSize: 87552
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ProfilerModule.dll
+    role: Unity and Android assets
+    id: 194
+    totalSize: 8192
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+    role: Unity and Android assets
+    id: 195
+    totalSize: 9216
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll
+    role: Unity and Android assets
+    id: 196
+    totalSize: 19456
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll
+    role: Unity and Android assets
+    id: 197
+    totalSize: 9216
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll
+    role: Unity and Android assets
+    id: 198
+    totalSize: 12800
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.StreamingModule.dll
+    role: Unity and Android assets
+    id: 199
+    totalSize: 8704
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.StyleSheetsModule.dll
+    role: Unity and Android assets
+    id: 200
+    totalSize: 16384
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SubstanceModule.dll
+    role: Unity and Android assets
+    id: 201
+    totalSize: 12800
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TerrainModule.dll
+    role: Unity and Android assets
+    id: 202
+    totalSize: 68608
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+    role: Unity and Android assets
+    id: 203
+    totalSize: 8704
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll
+    role: Unity and Android assets
+    id: 204
+    totalSize: 31744
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll
+    role: Unity and Android assets
+    id: 205
+    totalSize: 26112
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll
+    role: Unity and Android assets
+    id: 206
+    totalSize: 24064
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TLSModule.dll
+    role: Unity and Android assets
+    id: 207
+    totalSize: 8192
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UI.dll
+    role: Unity and Android assets
+    id: 208
+    totalSize: 258560
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll
+    role: Unity and Android assets
+    id: 209
+    totalSize: 540160
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UIModule.dll
+    role: Unity and Android assets
+    id: 210
+    totalSize: 22016
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UmbraModule.dll
+    role: Unity and Android assets
+    id: 211
+    totalSize: 8192
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UNETModule.dll
+    role: Unity and Android assets
+    id: 212
+    totalSize: 76800
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+    role: Unity and Android assets
+    id: 213
+    totalSize: 24064
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityConnectModule.dll
+    role: Unity and Android assets
+    id: 214
+    totalSize: 9728
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+    role: Unity and Android assets
+    id: 215
+    totalSize: 8192
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+    role: Unity and Android assets
+    id: 216
+    totalSize: 10752
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+    role: Unity and Android assets
+    id: 217
+    totalSize: 10240
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+    role: Unity and Android assets
+    id: 218
+    totalSize: 41984
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+    role: Unity and Android assets
+    id: 219
+    totalSize: 9728
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+    role: Unity and Android assets
+    id: 220
+    totalSize: 18944
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VehiclesModule.dll
+    role: Unity and Android assets
+    id: 221
+    totalSize: 11776
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VFXModule.dll
+    role: Unity and Android assets
+    id: 222
+    totalSize: 30720
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VideoModule.dll
+    role: Unity and Android assets
+    id: 223
+    totalSize: 27648
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VRModule.dll
+    role: Unity and Android assets
+    id: 224
+    totalSize: 30208
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.WindModule.dll
+    role: Unity and Android assets
+    id: 225
+    totalSize: 8704
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.XRModule.dll
+    role: Unity and Android assets
+    id: 226
+    totalSize: 60928
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/platform_native_link.xml
+    role: Unity and Android assets
+    id: 227
+    totalSize: 526
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/Resources/unity_builtin_extra
+    role: Unity and Android assets
+    id: 228
+    totalSize: 439936
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split0
+    role: Unity and Android assets
+    id: 229
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split1
+    role: Unity and Android assets
+    id: 230
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split10
+    role: Unity and Android assets
+    id: 231
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split11
+    role: Unity and Android assets
+    id: 232
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split12
+    role: Unity and Android assets
+    id: 233
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split13
+    role: Unity and Android assets
+    id: 234
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split14
+    role: Unity and Android assets
+    id: 235
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split15
+    role: Unity and Android assets
+    id: 236
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split16
+    role: Unity and Android assets
+    id: 237
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split17
+    role: Unity and Android assets
+    id: 238
+    totalSize: 357640
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split2
+    role: Unity and Android assets
+    id: 239
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split3
+    role: Unity and Android assets
+    id: 240
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split4
+    role: Unity and Android assets
+    id: 241
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split5
+    role: Unity and Android assets
+    id: 242
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split6
+    role: Unity and Android assets
+    id: 243
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split7
+    role: Unity and Android assets
+    id: 244
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split8
+    role: Unity and Android assets
+    id: 245
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split9
+    role: Unity and Android assets
+    id: 246
+    totalSize: 1048576
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/unity
+      default resources
+    role: Unity and Android assets
+    id: 247
+    totalSize: 3653244
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/build.gradle
+    role: build.gradle
+    id: 248
+    totalSize: 1989
+  - path: C:/Users/Gonca/Desktop/games/Cliff Dive/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.resource
+    role: Streaming resource
+    id: 249
+    totalSize: 640224
+  - path: C:/Users/Gonca/Desktop/1.apk
+    role: APK
+    id: 250
+    totalSize: 31566662
+  m_BuildSteps:
+  - stepName: Build player
+    durationTicks: 1319009774
+    depth: 0
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 39250978
+    depth: 1
+    messages:
+    - type: 2
+      content: 'Assets\Scripts\GameController.cs(45,10): warning CS0414: The field
+        ''GameController.canGroupSpawn'' is assigned but its value is never used'
+  - stepName: Prepare assets for target platform
+    durationTicks: 366804
+    depth: 1
+    messages: []
+  - stepName: Prepare splash screen
+    durationTicks: 38
+    depth: 1
+    messages: []
+  - stepName: Building scenes
+    durationTicks: 11650640
+    depth: 1
+    messages: []
+  - stepName: Building scene Assets/Scenes/Level 1.unity
+    durationTicks: 11650558
+    depth: 2
+    messages: []
+  - stepName: Build GlobalGameManagers file
+    durationTicks: 700848
+    depth: 1
+    messages: []
+  - stepName: Writing asset files
+    durationTicks: 20091134
+    depth: 1
+    messages: []
+  - stepName: Packaging assets - 00a0dd68a932e0b4cabca01cdd32b72d
+    durationTicks: 186652
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 06b368452006e464fba03cee782ce607
+    durationTicks: 266283
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 195d1f257f73aab4e8292f533ad4336e
+    durationTicks: 121778
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 1e789862a7531a34bbb249a1bb383d3a
+    durationTicks: 159210
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 312ba5b9e90627940866e19549a788cf
+    durationTicks: 122483
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 379b74ab0b03e5344acba61cfdd852e9
+    durationTicks: 132399
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 3c2ea7753c1425145a74d106ec1cd852
+    durationTicks: 783271
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 438defe6a2827704f90bdf852732bc11
+    durationTicks: 176158
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 4a447881117944c4ba696f9adc65a9c5
+    durationTicks: 253858
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 4a7755d6b5b67874f89c85f56f95fe97
+    durationTicks: 533208
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 54d1085f9a2fdea4587fcfc7dddcd4bc
+    durationTicks: 131756
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 69ed5bac41eebaa4c97e9d2a4168c54f
+    durationTicks: 138504
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 6ec706981a919c3489f0b061a40054e2
+    durationTicks: 178289
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 723c410b6e1901c408b1e6a62daed5df
+    durationTicks: 206874
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 728b5bb3aef684c4daa3acf7a00a5d5f
+    durationTicks: 496037
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 88dc19c5874aabc43aaaaa05b0e8165d
+    durationTicks: 269827
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 8d713940fcbede142ae4a33ea0062b33
+    durationTicks: 252589
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 8e6b9842dbb1a5a4887378afab854e63
+    durationTicks: 1088614
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 9a952e2781ef26940ae089f1053ef4ef
+    durationTicks: 278197
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - 9ecb3fe313cb5f7478141eba4a2d54ed
+    durationTicks: 454576
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - a39842a0aed8d46498785e98d85f066e
+    durationTicks: 151421
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - a423cd5908af21a47ae43597db0b17d8
+    durationTicks: 131803
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - a56754aa25831cd4287bfb51552f75e4
+    durationTicks: 151865
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - afc255f7c2be52e41973a3d10a2e632d
+    durationTicks: 477494
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - b68856603b8928646830984a56406eb4
+    durationTicks: 299152
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - bc2d34f37efcbdf429ed46cb34aa2ad5
+    durationTicks: 172991
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - c296aaf4cf94cf3448846dd7f6d9b407
+    durationTicks: 159581
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - d1cf17907700cb647aa3ea423ba38f2e
+    durationTicks: 681013
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - d37b1512245a86f4fa830a2e6488a787
+    durationTicks: 113567
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - da38a3dcabcd7f649a5a06cb2dabb637
+    durationTicks: 122325
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - e20a07296c6e66b419b78bdd751906f1
+    durationTicks: 227039
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - edfcf888cd11d9245b91d2883049a57e
+    durationTicks: 599654
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - f23052e6924408a469944291f8d648d4
+    durationTicks: 254371
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - globalgamemanagers.assets
+    durationTicks: 219593
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - sharedassets0.assets
+    durationTicks: 9660648
+    depth: 2
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 1043484606
+    depth: 1
+    messages: []
+  - stepName: Creating staging area
+    durationTicks: 353837
+    depth: 2
+    messages:
+    - type: 2
+      content: 'The orientation specified is not compatible with Android TV.
+
+        Please select Landscape or AutoRotation with Landscape enabled orientation,
+        or disable Android TV compatibility in Player Settings.'
+  - stepName: Generating Build Id
+    durationTicks: 112636
+    depth: 2
+    messages: []
+  - stepName: Preparing Unity resources
+    durationTicks: 228756
+    depth: 2
+    messages: []
+  - stepName: 'Managed Stripping: (Mono)'
+    durationTicks: 163954
+    depth: 2
+    messages: []
+  - stepName: Preparing Managed resources
+    durationTicks: 1155770
+    depth: 2
+    messages: []
+  - stepName: Splitting assets
+    durationTicks: 1915865
+    depth: 2
+    messages: []
+  - stepName: Processing OBB assets
+    durationTicks: 2137
+    depth: 2
+    messages: []
+  - stepName: Preparing Unity libraries
+    durationTicks: 4013168
+    depth: 2
+    messages: []
+  - stepName: Processing resources
+    durationTicks: 72641
+    depth: 2
+    messages: []
+  - stepName: Preparing APK resources
+    durationTicks: 37491884
+    depth: 2
+    messages: []
+  - stepName: Processing plugins
+    durationTicks: 361219
+    depth: 2
+    messages: []
+  - stepName: Processing Android libraries
+    durationTicks: 92118
+    depth: 2
+    messages: []
+  - stepName: Creating Android manifest
+    durationTicks: 37091745
+    depth: 2
+    messages: []
+  - stepName: Checking Graphics API compatibility
+    durationTicks: 47350
+    depth: 2
+    messages: []
+  - stepName: Compiling resources
+    durationTicks: 11169658
+    depth: 2
+    messages: []
+  - stepName: IL2CPP
+    durationTicks: 23499
+    depth: 2
+    messages: []
+  - stepName: Build native Unity binary
+    durationTicks: 3066
+    depth: 2
+    messages: []
+  - stepName: Zipping symbols
+    durationTicks: 16260
+    depth: 2
+    messages: []
+  - stepName: Performance Reporting Symbol Upload
+    durationTicks: 5445
+    depth: 2
+    messages: []
+  - stepName: Preparing streaming assets
+    durationTicks: 225746
+    depth: 2
+    messages: []
+  - stepName: Creating APK expansion package (OBB)
+    durationTicks: 3386
+    depth: 2
+    messages: []
+  - stepName: Exporting project
+    durationTicks: 17726003
+    depth: 2
+    messages: []
+  - stepName: Building Gradle project
+    durationTicks: 910298507
+    depth: 2
+    messages: []
+  - stepName: Moving output package(s)
+    durationTicks: 549901
+    depth: 2
+    messages: []
+  - stepName: Processing Mapping File
+    durationTicks: 105852
+    depth: 2
+    messages: []
+  m_Appendices:
+  - {fileID: 825328787259745470}
+  - {fileID: 1575218264281243533}
+  - {fileID: 8971919970963513590}
+  - {fileID: 3797909016420067851}
+  - {fileID: 6669153216087385575}
+  - {fileID: -2422125257771367266}
+  - {fileID: 3631466993387880356}
+  - {fileID: 7038833979719721987}
+  - {fileID: 4136174055491561531}
+  - {fileID: 7251474274903589793}
+  - {fileID: -8722823153565427883}
+  - {fileID: -797345950670634994}
+  - {fileID: -3758673276645398905}
+  - {fileID: -7432398968410400107}
+  - {fileID: -6450175309741703361}
+  - {fileID: 7427922534494490972}
+  - {fileID: -3737446604792092138}
+  - {fileID: -3838988546554311495}
+  - {fileID: 1961303292094742881}
+  - {fileID: 7282679471212130335}
+  - {fileID: 736221721384868362}
+  - {fileID: -6305119991782470600}
+  - {fileID: 3109071806658718774}
+  - {fileID: 1801375859206831435}
+  - {fileID: 9159417023123560624}
+  - {fileID: -5944633483125739097}
+  - {fileID: -8058397239444616501}
+  - {fileID: 8858534487074297829}
+  - {fileID: -7694546551221052960}
+  - {fileID: -2875281310827148613}
+  - {fileID: 5742201992285439992}
+  - {fileID: 4983715606367245044}
+  - {fileID: 5783552666859918962}
+  - {fileID: 7446355276989503487}
+  - {fileID: 6310164152085827987}
+  - {fileID: -6436951302712773242}
+  - {fileID: 8672256326256411787}
+--- !u!1126 &736221721384868362
+PackedAssets:
+  m_File: 48
+  m_ShortPath: a39842a0aed8d46498785e98d85f066e
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 213
+    packedSize: 460
+    sourceAssetGUID: a39842a0aed8d46498785e98d85f066e
+    buildTimeAssetPath: Assets/Resources/Sprites/sparkle.png
+--- !u!1126 &825328787259745470
+PackedAssets:
+  m_File: 28
+  m_ShortPath: 00a0dd68a932e0b4cabca01cdd32b72d
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 49
+    packedSize: 1596
+    sourceAssetGUID: 00a0dd68a932e0b4cabca01cdd32b72d
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.xml
+--- !u!1126 &1575218264281243533
+PackedAssets:
+  m_File: 29
+  m_ShortPath: 06b368452006e464fba03cee782ce607
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 28
+    packedSize: 1440112
+    sourceAssetGUID: 06b368452006e464fba03cee782ce607
+    buildTimeAssetPath: Assets/Resources/Sprites/icon_background.png
+  - fileID: 2
+    classID: 213
+    packedSize: 468
+    sourceAssetGUID: 06b368452006e464fba03cee782ce607
+    buildTimeAssetPath: Assets/Resources/Sprites/icon_background.png
+--- !u!1126 &1801375859206831435
+PackedAssets:
+  m_File: 51
+  m_ShortPath: afc255f7c2be52e41973a3d10a2e632d
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 48
+    packedSize: 14916
+    sourceAssetGUID: afc255f7c2be52e41973a3d10a2e632d
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+--- !u!1126 &1961303292094742881
+PackedAssets:
+  m_File: 46
+  m_ShortPath: 9a952e2781ef26940ae089f1053ef4ef
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 21
+    packedSize: 344
+    sourceAssetGUID: 9a952e2781ef26940ae089f1053ef4ef
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  - fileID: 2
+    classID: 114
+    packedSize: 1288
+    sourceAssetGUID: 9a952e2781ef26940ae089f1053ef4ef
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+--- !u!1126 &3109071806658718774
+PackedAssets:
+  m_File: 50
+  m_ShortPath: a56754aa25831cd4287bfb51552f75e4
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 28
+    packedSize: 213976
+    sourceAssetGUID: a56754aa25831cd4287bfb51552f75e4
+    buildTimeAssetPath: Assets/Resources/Sprites/icon_rounded.png
+  - fileID: 2
+    classID: 213
+    packedSize: 464
+    sourceAssetGUID: a56754aa25831cd4287bfb51552f75e4
+    buildTimeAssetPath: Assets/Resources/Sprites/icon_rounded.png
+--- !u!1126 &3631466993387880356
+PackedAssets:
+  m_File: 34
+  m_ShortPath: 3c2ea7753c1425145a74d106ec1cd852
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 48
+    packedSize: 19892
+    sourceAssetGUID: 3c2ea7753c1425145a74d106ec1cd852
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+--- !u!1126 &3797909016420067851
+PackedAssets:
+  m_File: 31
+  m_ShortPath: 1e789862a7531a34bbb249a1bb383d3a
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 49
+    packedSize: 372
+    sourceAssetGUID: 1e789862a7531a34bbb249a1bb383d3a
+    buildTimeAssetPath: Assets/Resources/Sprites/leaf.xml
+--- !u!1126 &4136174055491561531
+PackedAssets:
+  m_File: 36
+  m_ShortPath: 4a447881117944c4ba696f9adc65a9c5
+  m_Overhead: 4100
+  m_Contents:
+  - fileID: 1
+    classID: 28
+    packedSize: 1638500
+    sourceAssetGUID: 4a447881117944c4ba696f9adc65a9c5
+    buildTimeAssetPath: Assets/Resources/Sprites/a 4.png
+  - fileID: 2
+    classID: 213
+    packedSize: 2892
+    sourceAssetGUID: 4a447881117944c4ba696f9adc65a9c5
+    buildTimeAssetPath: Assets/Resources/Sprites/a 4.png
+--- !u!1126 &4983715606367245044
+PackedAssets:
+  m_File: 59
+  m_ShortPath: edfcf888cd11d9245b91d2883049a57e
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 48
+    packedSize: 10716
+    sourceAssetGUID: edfcf888cd11d9245b91d2883049a57e
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+--- !u!1126 &5742201992285439992
+PackedAssets:
+  m_File: 58
+  m_ShortPath: e20a07296c6e66b419b78bdd751906f1
+  m_Overhead: 4100
+  m_Contents:
+  - fileID: 1
+    classID: 28
+    packedSize: 1638500
+    sourceAssetGUID: e20a07296c6e66b419b78bdd751906f1
+    buildTimeAssetPath: Assets/Resources/Sprites/a 3.png
+  - fileID: 2
+    classID: 213
+    packedSize: 2892
+    sourceAssetGUID: e20a07296c6e66b419b78bdd751906f1
+    buildTimeAssetPath: Assets/Resources/Sprites/a 3.png
+--- !u!1126 &5783552666859918962
+PackedAssets:
+  m_File: 60
+  m_ShortPath: f23052e6924408a469944291f8d648d4
+  m_Overhead: 4100
+  m_Contents:
+  - fileID: 1
+    classID: 28
+    packedSize: 1638500
+    sourceAssetGUID: f23052e6924408a469944291f8d648d4
+    buildTimeAssetPath: Assets/Resources/Sprites/a 2.png
+  - fileID: 2
+    classID: 213
+    packedSize: 2892
+    sourceAssetGUID: f23052e6924408a469944291f8d648d4
+    buildTimeAssetPath: Assets/Resources/Sprites/a 2.png
+--- !u!1126 &6310164152085827987
+PackedAssets:
+  m_File: 62
+  m_ShortPath: sharedassets0.assets
+  m_Overhead: 9493
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 637
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 21
+    packedSize: 1692
+    sourceAssetGUID: 3eb72fd7a4cd4054586e9a2d28fa8f4e
+    buildTimeAssetPath: Assets/Fonts/baveuse.asset
+  - fileID: 3
+    classID: 21
+    packedSize: 1064
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 4
+    classID: 21
+    packedSize: 324
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 5
+    classID: 21
+    packedSize: 688
+    sourceAssetGUID: a85e5a271d1065d47be53b1d52c58276
+    buildTimeAssetPath: Assets/Materials/New Material 1.mat
+  - fileID: 6
+    classID: 21
+    packedSize: 1216
+    sourceAssetGUID: 19bc8900cc0fabf46bf3e871a6d13264
+    buildTimeAssetPath: Assets/Materials/New Material 3.mat
+  - fileID: 7
+    classID: 21
+    packedSize: 572
+    sourceAssetGUID: efa82ab5f3f9aee418589889d360bccc
+    buildTimeAssetPath: Assets/Materials/sparkles.mat
+  - fileID: 8
+    classID: 21
+    packedSize: 284
+    sourceAssetGUID: 995e08763ca01044895a3c80aa6d5c00
+    buildTimeAssetPath: Assets/Resources/Sprites/Materials/barrier.mat
+  - fileID: 9
+    classID: 21
+    packedSize: 324
+    sourceAssetGUID: 846827c30610b3045980878ab9caf487
+    buildTimeAssetPath: Assets/Resources/Sprites/leaf.asset
+  - fileID: 10
+    classID: 28
+    packedSize: 262256
+    sourceAssetGUID: 3eb72fd7a4cd4054586e9a2d28fa8f4e
+    buildTimeAssetPath: Assets/Fonts/baveuse.asset
+  - fileID: 11
+    classID: 28
+    packedSize: 21964
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 12
+    classID: 28
+    packedSize: 5564
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 13
+    classID: 28
+    packedSize: 5568
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 14
+    classID: 28
+    packedSize: 5576
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 15
+    classID: 28
+    packedSize: 53828
+    sourceAssetGUID: 01cc82c66f5148c4ab93244efc65160e
+    buildTimeAssetPath: Assets/Resources/Sprites/Swirl.png
+  - fileID: 16
+    classID: 28
+    packedSize: 49708
+    sourceAssetGUID: 05a99a8e2a96723419b9fd5b8371d731
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-7.png
+  - fileID: 17
+    classID: 28
+    packedSize: 262252
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+  - fileID: 18
+    classID: 28
+    packedSize: 1048684
+    sourceAssetGUID: 253ea9891122547438ea9050eef97c63
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-2.png
+  - fileID: 19
+    classID: 28
+    packedSize: 876396
+    sourceAssetGUID: 2d6ceaa16ebba2040a40ef62de446eaa
+    buildTimeAssetPath: Assets/Resources/Sprites/Symbol 70004.png
+  - fileID: 20
+    classID: 28
+    packedSize: 91288
+    sourceAssetGUID: 3451ca309ce48b448890b57570b7566a
+    buildTimeAssetPath: Assets/Resources/Sprites/rageBtn.png
+  - fileID: 21
+    classID: 28
+    packedSize: 335264
+    sourceAssetGUID: 379b74ab0b03e5344acba61cfdd852e9
+    buildTimeAssetPath: Assets/Resources/Sprites/smoke.png
+  - fileID: 22
+    classID: 28
+    packedSize: 1638500
+    sourceAssetGUID: 3e0ebfa1122f376488db881de30a501f
+    buildTimeAssetPath: Assets/Resources/Sprites/a.png
+  - fileID: 23
+    classID: 28
+    packedSize: 91288
+    sourceAssetGUID: 3e69cf3e25a1b3142b5b09a63933468d
+    buildTimeAssetPath: Assets/Resources/Sprites/correct.png
+  - fileID: 24
+    classID: 28
+    packedSize: 46392
+    sourceAssetGUID: 4ab40fab5ea4c42438e653834ef9e2d7
+    buildTimeAssetPath: Assets/Resources/Sprites/liquid.png
+  - fileID: 25
+    classID: 28
+    packedSize: 65640
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 26
+    classID: 28
+    packedSize: 47196
+    sourceAssetGUID: 57d08b1ae30cb2c4b84b2b763bc3f67a
+    buildTimeAssetPath: Assets/Resources/Sprites/lifeContainerMask.png
+  - fileID: 27
+    classID: 28
+    packedSize: 876400
+    sourceAssetGUID: 58a04a6f00dfadb418d21b074ecb6d3c
+    buildTimeAssetPath: Assets/Resources/Sprites/instructions0002.png
+  - fileID: 28
+    classID: 28
+    packedSize: 524388
+    sourceAssetGUID: 5ceaec759ef9f4549b2254a78a55fcca
+    buildTimeAssetPath: Assets/Resources/Sprites/leaf.png
+  - fileID: 29
+    classID: 28
+    packedSize: 380900
+    sourceAssetGUID: 6fb790c9ddacfdf43bb205979f1297f6
+    buildTimeAssetPath: Assets/Resources/Sprites/note.png
+  - fileID: 30
+    classID: 28
+    packedSize: 311648
+    sourceAssetGUID: 789853ad1b9c7504db62e998838cac5c
+    buildTimeAssetPath: Assets/Resources/Sprites/btn_replay.png
+  - fileID: 31
+    classID: 28
+    packedSize: 91284
+    sourceAssetGUID: 86edc1a3e7fa14f4d8006e897f47c120
+    buildTimeAssetPath: Assets/Resources/Sprites/no.png
+  - fileID: 32
+    classID: 28
+    packedSize: 260108
+    sourceAssetGUID: 9198d5836f2bec5419934610ff0df146
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-5.png
+  - fileID: 33
+    classID: 28
+    packedSize: 273532
+    sourceAssetGUID: 98753237a78812c429a1cf8ca5386314
+    buildTimeAssetPath: Assets/Resources/Sprites/WarningYelolow.png
+  - fileID: 34
+    classID: 28
+    packedSize: 828060
+    sourceAssetGUID: a23b4f64789cce14a9a70b23d976a092
+    buildTimeAssetPath: Assets/Resources/Sprites/barrier.png
+  - fileID: 35
+    classID: 28
+    packedSize: 373688
+    sourceAssetGUID: a39842a0aed8d46498785e98d85f066e
+    buildTimeAssetPath: Assets/Resources/Sprites/sparkle.png
+  - fileID: 36
+    classID: 28
+    packedSize: 876400
+    sourceAssetGUID: a70e1ab6911a40744a054055986eccad
+    buildTimeAssetPath: Assets/Resources/Sprites/instructions0001.png
+  - fileID: 37
+    classID: 28
+    packedSize: 91296
+    sourceAssetGUID: af44da060c4e07b4d8b93e9defa9e14b
+    buildTimeAssetPath: Assets/Resources/Sprites/coinIndicator.png
+  - fileID: 38
+    classID: 28
+    packedSize: 132192
+    sourceAssetGUID: b40e4f0895215a649af2443a810d81e1
+    buildTimeAssetPath: Assets/Resources/Sprites/shopIcon.png
+  - fileID: 39
+    classID: 28
+    packedSize: 273528
+    sourceAssetGUID: c27fbf840e4cc9d4384f7bbb0fd4c1ef
+    buildTimeAssetPath: Assets/Resources/Sprites/WarningRed.png
+  - fileID: 40
+    classID: 28
+    packedSize: 2097256
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 41
+    classID: 28
+    packedSize: 9396
+    sourceAssetGUID: c7b194f92c3b70d4eaf0f8adb2951ca9
+    buildTimeAssetPath: Assets/Resources/Sprites/instructBtn.png
+  - fileID: 42
+    classID: 28
+    packedSize: 876396
+    sourceAssetGUID: c97e81aab584dd94a98596ba54e8d5e6
+    buildTimeAssetPath: Assets/Resources/Sprites/Symbol 70003.png
+  - fileID: 43
+    classID: 28
+    packedSize: 91292
+    sourceAssetGUID: d0cc4747d1ce05c4da89aaf06ad8341e
+    buildTimeAssetPath: Assets/Resources/Sprites/barrierBtn.png
+  - fileID: 44
+    classID: 28
+    packedSize: 62356
+    sourceAssetGUID: d384ba3ff9003f741b2076d202cb02ae
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-6.png
+  - fileID: 45
+    classID: 28
+    packedSize: 131180
+    sourceAssetGUID: d4781a4299e487a48a4b6a5b31cad485
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-1.png
+  - fileID: 46
+    classID: 28
+    packedSize: 1036908
+    sourceAssetGUID: dd6c112c43552c34d80c69bd3846ce04
+    buildTimeAssetPath: Assets/Resources/Sprites/Artboard 1.png
+  - fileID: 47
+    classID: 28
+    packedSize: 1048684
+    sourceAssetGUID: e28ea7e3406149549ac88009fb14dd00
+    buildTimeAssetPath: Assets/Resources/Sprites/face_rage.png
+  - fileID: 48
+    classID: 28
+    packedSize: 52996
+    sourceAssetGUID: e3ce20c49ac02044ca06b3eb6a2769a2
+    buildTimeAssetPath: Assets/Resources/Sprites/lifeContainer.png
+  - fileID: 49
+    classID: 28
+    packedSize: 43720
+    sourceAssetGUID: e5cfcfc335edca94fade1c9ec77b0586
+    buildTimeAssetPath: Assets/Resources/Sprites/brick.png
+  - fileID: 50
+    classID: 28
+    packedSize: 1537216
+    sourceAssetGUID: efa70270e6367474ba2ff82e134d1dc4
+    buildTimeAssetPath: Assets/Resources/Sprites/base.png
+  - fileID: 51
+    classID: 28
+    packedSize: 91288
+    sourceAssetGUID: f24ab0c06acf87c40919c69b14033230
+    buildTimeAssetPath: Assets/Resources/Sprites/btn_inst.png
+  - fileID: 52
+    classID: 28
+    packedSize: 524392
+    sourceAssetGUID: f6d7b7972f67b6a418b9f1df9e9f540b
+    buildTimeAssetPath: Assets/Resources/Sprites/balls.png
+  - fileID: 53
+    classID: 48
+    packedSize: 22688
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 54
+    classID: 48
+    packedSize: 6864
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 55
+    classID: 48
+    packedSize: 25892
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 56
+    classID: 48
+    packedSize: 9052
+    sourceAssetGUID: 3a1c68c8292caf046bd21158886c5e40
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+  - fileID: 57
+    classID: 48
+    packedSize: 13188
+    sourceAssetGUID: cafd18099dfc0114896e0a8b277b81b6
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+  - fileID: 58
+    classID: 48
+    packedSize: 16968
+    sourceAssetGUID: dca26082f9cb439469295791d9f76fe5
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+  - fileID: 59
+    classID: 74
+    packedSize: 2412
+    sourceAssetGUID: 7cd6cc2d568a6c14497aea196dd8ae78
+    buildTimeAssetPath: Assets/Animations/FadeIn.anim
+  - fileID: 60
+    classID: 74
+    packedSize: 2356
+    sourceAssetGUID: e92d319ca92ad084a9373a0cfce33e4a
+    buildTimeAssetPath: Assets/Animations/Hit.anim
+  - fileID: 61
+    classID: 74
+    packedSize: 2516
+    sourceAssetGUID: 6393e486e93f3bc4b8f94e11d20e5f0f
+    buildTimeAssetPath: Assets/Animations/Rage.anim
+  - fileID: 62
+    classID: 74
+    packedSize: 2692
+    sourceAssetGUID: 94b61a41a7ff64248a0f982426314990
+    buildTimeAssetPath: Assets/Animations/SplashSide.anim
+  - fileID: 63
+    classID: 74
+    packedSize: 2604
+    sourceAssetGUID: ae6f7265be41d4b4c99d561247b4524a
+    buildTimeAssetPath: Assets/Animations/WallFall.anim
+  - fileID: 64
+    classID: 74
+    packedSize: 2504
+    sourceAssetGUID: cc345e576b3e4bd439d24cc43f87bece
+    buildTimeAssetPath: Assets/Animations/WindParticle.anim
+  - fileID: 65
+    classID: 74
+    packedSize: 2680
+    sourceAssetGUID: 4853a7d7978cb0a4e91150559a12a7f0
+    buildTimeAssetPath: Assets/Animations/coins.anim
+  - fileID: 66
+    classID: 74
+    packedSize: 2928
+    sourceAssetGUID: b87a2a209bf1a6142834dd80b59e621e
+    buildTimeAssetPath: Assets/Animations/splash2.anim
+  - fileID: 67
+    classID: 74
+    packedSize: 2976
+    sourceAssetGUID: 8d15c51e6a57f244f9ebf043e8e253fb
+    buildTimeAssetPath: Assets/Animations/squish.anim
+  - fileID: 68
+    classID: 83
+    packedSize: 92
+    sourceAssetGUID: 6377a0e6efc9c6d47937393921bbb281
+    buildTimeAssetPath: Assets/Sound/btnclick.wav
+  - fileID: 69
+    classID: 83
+    packedSize: 96
+    sourceAssetGUID: 74d3cb65784db864cb6f0f4a8a91cc55
+    buildTimeAssetPath: Assets/Sound/dodge_new_2.wav
+  - fileID: 70
+    classID: 83
+    packedSize: 88
+    sourceAssetGUID: 9b06fc3028057cc4797326a028ce0f58
+    buildTimeAssetPath: Assets/Sound/coin.wav
+  - fileID: 71
+    classID: 83
+    packedSize: 88
+    sourceAssetGUID: a123c19e4f3f9874698a620db107e921
+    buildTimeAssetPath: Assets/Sound/hit.wav
+  - fileID: 72
+    classID: 83
+    packedSize: 92
+    sourceAssetGUID: c54e9a3a016edeb42aca35849b6e725e
+    buildTimeAssetPath: Assets/Sound/smash2.wav
+  - fileID: 73
+    classID: 83
+    packedSize: 92
+    sourceAssetGUID: cdeea12702d06574d9fb1531d06e71a6
+    buildTimeAssetPath: Assets/Sound/warning.wav
+  - fileID: 74
+    classID: 83
+    packedSize: 88
+    sourceAssetGUID: d7e9ebacfc6e8c046b578bc50096040a
+    buildTimeAssetPath: Assets/Sound/wind.wav
+  - fileID: 75
+    classID: 83
+    packedSize: 96
+    sourceAssetGUID: ea649e041d42339478261b3402859b90
+    buildTimeAssetPath: Assets/Sound/rocks_fall.mp3
+  - fileID: 76
+    classID: 91
+    packedSize: 408
+    sourceAssetGUID: 539d1943e56ea0c418fd13dfc522c274
+    buildTimeAssetPath: Assets/Animations/Fade.controller
+  - fileID: 77
+    classID: 91
+    packedSize: 1252
+    sourceAssetGUID: edf972ac3ab6ecf47bf66c8b7bf61c16
+    buildTimeAssetPath: Assets/Animations/Player.controller
+  - fileID: 78
+    classID: 91
+    packedSize: 776
+    sourceAssetGUID: 0e6bade7d1eee3c4b958b3b98adbb29a
+    buildTimeAssetPath: Assets/Animations/SideSplashControler.controller
+  - fileID: 79
+    classID: 91
+    packedSize: 772
+    sourceAssetGUID: 6d01cdb5df011ef4586c4fb9f90c958c
+    buildTimeAssetPath: Assets/Animations/SplashController.controller
+  - fileID: 80
+    classID: 91
+    packedSize: 844
+    sourceAssetGUID: dfee1390f2c216445a3e369be7c9e4e9
+    buildTimeAssetPath: Assets/Animations/WallsParticles.controller
+  - fileID: 81
+    classID: 91
+    packedSize: 1080
+    sourceAssetGUID: e2ab6e8090ea35b48bfae7ad9e3fb8b5
+    buildTimeAssetPath: Assets/Animations/WindParticle.controller
+  - fileID: 82
+    classID: 91
+    packedSize: 416
+    sourceAssetGUID: aa30a81b96103474098ae5a27aa252f9
+    buildTimeAssetPath: Assets/Animations/coinController.controller
+  - fileID: 83
+    classID: 213
+    packedSize: 592
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 84
+    classID: 213
+    packedSize: 2828
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 85
+    classID: 213
+    packedSize: 1536
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+  - fileID: 86
+    classID: 213
+    packedSize: 1656
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+  - fileID: 87
+    classID: 213
+    packedSize: 940
+    sourceAssetGUID: f6d7b7972f67b6a418b9f1df9e9f540b
+    buildTimeAssetPath: Assets/Resources/Sprites/balls.png
+  - fileID: 88
+    classID: 213
+    packedSize: 628
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 89
+    classID: 213
+    packedSize: 2760
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+  - fileID: 90
+    classID: 213
+    packedSize: 612
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 91
+    classID: 213
+    packedSize: 1424
+    sourceAssetGUID: e28ea7e3406149549ac88009fb14dd00
+    buildTimeAssetPath: Assets/Resources/Sprites/face_rage.png
+  - fileID: 92
+    classID: 213
+    packedSize: 484
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 93
+    classID: 213
+    packedSize: 6992
+    sourceAssetGUID: 5ceaec759ef9f4549b2254a78a55fcca
+    buildTimeAssetPath: Assets/Resources/Sprites/leaf.png
+  - fileID: 94
+    classID: 213
+    packedSize: 5000
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 95
+    classID: 213
+    packedSize: 524
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 96
+    classID: 213
+    packedSize: 612
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 97
+    classID: 213
+    packedSize: 1028
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+  - fileID: 98
+    classID: 213
+    packedSize: 2872
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 99
+    classID: 213
+    packedSize: 648
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+  - fileID: 100
+    classID: 213
+    packedSize: 660
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 101
+    classID: 213
+    packedSize: 3616
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 102
+    classID: 213
+    packedSize: 600
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+  - fileID: 103
+    classID: 213
+    packedSize: 568
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 104
+    classID: 213
+    packedSize: 572
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 105
+    classID: 213
+    packedSize: 580
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 106
+    classID: 213
+    packedSize: 1232
+    sourceAssetGUID: 01cc82c66f5148c4ab93244efc65160e
+    buildTimeAssetPath: Assets/Resources/Sprites/Swirl.png
+  - fileID: 107
+    classID: 213
+    packedSize: 616
+    sourceAssetGUID: 05a99a8e2a96723419b9fd5b8371d731
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-7.png
+  - fileID: 108
+    classID: 213
+    packedSize: 9680
+    sourceAssetGUID: 253ea9891122547438ea9050eef97c63
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-2.png
+  - fileID: 109
+    classID: 213
+    packedSize: 2904
+    sourceAssetGUID: 2d6ceaa16ebba2040a40ef62de446eaa
+    buildTimeAssetPath: Assets/Resources/Sprites/Symbol 70004.png
+  - fileID: 110
+    classID: 213
+    packedSize: 664
+    sourceAssetGUID: 3451ca309ce48b448890b57570b7566a
+    buildTimeAssetPath: Assets/Resources/Sprites/rageBtn.png
+  - fileID: 111
+    classID: 213
+    packedSize: 2892
+    sourceAssetGUID: 3e0ebfa1122f376488db881de30a501f
+    buildTimeAssetPath: Assets/Resources/Sprites/a.png
+  - fileID: 112
+    classID: 213
+    packedSize: 716
+    sourceAssetGUID: 3e69cf3e25a1b3142b5b09a63933468d
+    buildTimeAssetPath: Assets/Resources/Sprites/correct.png
+  - fileID: 113
+    classID: 213
+    packedSize: 460
+    sourceAssetGUID: 4ab40fab5ea4c42438e653834ef9e2d7
+    buildTimeAssetPath: Assets/Resources/Sprites/liquid.png
+  - fileID: 114
+    classID: 213
+    packedSize: 656
+    sourceAssetGUID: 57d08b1ae30cb2c4b84b2b763bc3f67a
+    buildTimeAssetPath: Assets/Resources/Sprites/lifeContainerMask.png
+  - fileID: 115
+    classID: 213
+    packedSize: 2856
+    sourceAssetGUID: 58a04a6f00dfadb418d21b074ecb6d3c
+    buildTimeAssetPath: Assets/Resources/Sprites/instructions0002.png
+  - fileID: 116
+    classID: 213
+    packedSize: 1448
+    sourceAssetGUID: 6fb790c9ddacfdf43bb205979f1297f6
+    buildTimeAssetPath: Assets/Resources/Sprites/note.png
+  - fileID: 117
+    classID: 213
+    packedSize: 1220
+    sourceAssetGUID: 789853ad1b9c7504db62e998838cac5c
+    buildTimeAssetPath: Assets/Resources/Sprites/btn_replay.png
+  - fileID: 118
+    classID: 213
+    packedSize: 712
+    sourceAssetGUID: 86edc1a3e7fa14f4d8006e897f47c120
+    buildTimeAssetPath: Assets/Resources/Sprites/no.png
+  - fileID: 119
+    classID: 213
+    packedSize: 556
+    sourceAssetGUID: 9198d5836f2bec5419934610ff0df146
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-5.png
+  - fileID: 120
+    classID: 213
+    packedSize: 868
+    sourceAssetGUID: 98753237a78812c429a1cf8ca5386314
+    buildTimeAssetPath: Assets/Resources/Sprites/WarningYelolow.png
+  - fileID: 121
+    classID: 213
+    packedSize: 1972
+    sourceAssetGUID: a23b4f64789cce14a9a70b23d976a092
+    buildTimeAssetPath: Assets/Resources/Sprites/barrier.png
+  - fileID: 122
+    classID: 213
+    packedSize: 2856
+    sourceAssetGUID: a70e1ab6911a40744a054055986eccad
+    buildTimeAssetPath: Assets/Resources/Sprites/instructions0001.png
+  - fileID: 123
+    classID: 213
+    packedSize: 672
+    sourceAssetGUID: af44da060c4e07b4d8b93e9defa9e14b
+    buildTimeAssetPath: Assets/Resources/Sprites/coinIndicator.png
+  - fileID: 124
+    classID: 213
+    packedSize: 1076
+    sourceAssetGUID: b40e4f0895215a649af2443a810d81e1
+    buildTimeAssetPath: Assets/Resources/Sprites/shopIcon.png
+  - fileID: 125
+    classID: 213
+    packedSize: 864
+    sourceAssetGUID: c27fbf840e4cc9d4384f7bbb0fd4c1ef
+    buildTimeAssetPath: Assets/Resources/Sprites/WarningRed.png
+  - fileID: 126
+    classID: 213
+    packedSize: 600
+    sourceAssetGUID: c7b194f92c3b70d4eaf0f8adb2951ca9
+    buildTimeAssetPath: Assets/Resources/Sprites/instructBtn.png
+  - fileID: 127
+    classID: 213
+    packedSize: 2904
+    sourceAssetGUID: c97e81aab584dd94a98596ba54e8d5e6
+    buildTimeAssetPath: Assets/Resources/Sprites/Symbol 70003.png
+  - fileID: 128
+    classID: 213
+    packedSize: 668
+    sourceAssetGUID: d0cc4747d1ce05c4da89aaf06ad8341e
+    buildTimeAssetPath: Assets/Resources/Sprites/barrierBtn.png
+  - fileID: 129
+    classID: 213
+    packedSize: 660
+    sourceAssetGUID: d384ba3ff9003f741b2076d202cb02ae
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-6.png
+  - fileID: 130
+    classID: 213
+    packedSize: 464
+    sourceAssetGUID: dd6c112c43552c34d80c69bd3846ce04
+    buildTimeAssetPath: Assets/Resources/Sprites/Artboard 1.png
+  - fileID: 131
+    classID: 213
+    packedSize: 928
+    sourceAssetGUID: e3ce20c49ac02044ca06b3eb6a2769a2
+    buildTimeAssetPath: Assets/Resources/Sprites/lifeContainer.png
+  - fileID: 132
+    classID: 213
+    packedSize: 580
+    sourceAssetGUID: e5cfcfc335edca94fade1c9ec77b0586
+    buildTimeAssetPath: Assets/Resources/Sprites/brick.png
+  - fileID: 133
+    classID: 213
+    packedSize: 4952
+    sourceAssetGUID: efa70270e6367474ba2ff82e134d1dc4
+    buildTimeAssetPath: Assets/Resources/Sprites/base.png
+  - fileID: 134
+    classID: 213
+    packedSize: 664
+    sourceAssetGUID: f24ab0c06acf87c40919c69b14033230
+    buildTimeAssetPath: Assets/Resources/Sprites/btn_inst.png
+  - fileID: 135
+    classID: 213
+    packedSize: 5500
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 136
+    classID: 213
+    packedSize: 6204
+    sourceAssetGUID: 5ceaec759ef9f4549b2254a78a55fcca
+    buildTimeAssetPath: Assets/Resources/Sprites/leaf.png
+  - fileID: 137
+    classID: 213
+    packedSize: 972
+    sourceAssetGUID: f6d7b7972f67b6a418b9f1df9e9f540b
+    buildTimeAssetPath: Assets/Resources/Sprites/balls.png
+  - fileID: 138
+    classID: 213
+    packedSize: 3276
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 139
+    classID: 213
+    packedSize: 584
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 140
+    classID: 213
+    packedSize: 600
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 141
+    classID: 213
+    packedSize: 1432
+    sourceAssetGUID: e28ea7e3406149549ac88009fb14dd00
+    buildTimeAssetPath: Assets/Resources/Sprites/face_rage.png
+  - fileID: 142
+    classID: 213
+    packedSize: 2620
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 143
+    classID: 213
+    packedSize: 1964
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+  - fileID: 144
+    classID: 213
+    packedSize: 920
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 145
+    classID: 213
+    packedSize: 2732
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 146
+    classID: 213
+    packedSize: 1876
+    sourceAssetGUID: d4781a4299e487a48a4b6a5b31cad485
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-1.png
+  - fileID: 147
+    classID: 213
+    packedSize: 784
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 148
+    classID: 213
+    packedSize: 1416
+    sourceAssetGUID: e28ea7e3406149549ac88009fb14dd00
+    buildTimeAssetPath: Assets/Resources/Sprites/face_rage.png
+  - fileID: 149
+    classID: 213
+    packedSize: 1088
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+  - fileID: 150
+    classID: 213
+    packedSize: 636
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 151
+    classID: 213
+    packedSize: 616
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 152
+    classID: 213
+    packedSize: 864
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+  - fileID: 153
+    classID: 213
+    packedSize: 2016
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 154
+    classID: 213
+    packedSize: 820
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 155
+    classID: 213
+    packedSize: 1372
+    sourceAssetGUID: c296aaf4cf94cf3448846dd7f6d9b407
+    buildTimeAssetPath: Assets/Resources/Sprites/splash 1.png
+  - fileID: 156
+    classID: 213
+    packedSize: 1396
+    sourceAssetGUID: e28ea7e3406149549ac88009fb14dd00
+    buildTimeAssetPath: Assets/Resources/Sprites/face_rage.png
+  - fileID: 157
+    classID: 213
+    packedSize: 552
+    sourceAssetGUID: 4fbb39a781221ea4da98165883fbb7e5
+    buildTimeAssetPath: Assets/Resources/Sprites/moedas.png
+  - fileID: 158
+    classID: 213
+    packedSize: 1328
+    sourceAssetGUID: d4781a4299e487a48a4b6a5b31cad485
+    buildTimeAssetPath: Assets/Resources/Sprites/Untitled-1.png
+  - fileID: 159
+    classID: 1
+    packedSize: 79
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 160
+    classID: 1
+    packedSize: 79
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 161
+    classID: 1
+    packedSize: 75
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 162
+    classID: 1
+    packedSize: 75
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 163
+    classID: 1
+    packedSize: 107
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 164
+    classID: 1
+    packedSize: 107
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 165
+    classID: 1
+    packedSize: 67
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 166
+    classID: 1
+    packedSize: 67
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 167
+    classID: 1
+    packedSize: 87
+    sourceAssetGUID: 4fc1e892ec928064090b3410e5f5465a
+    buildTimeAssetPath: Assets/Prefabs/WarningRED.prefab
+  - fileID: 168
+    classID: 1
+    packedSize: 47
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 169
+    classID: 1
+    packedSize: 67
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 170
+    classID: 1
+    packedSize: 75
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 171
+    classID: 1
+    packedSize: 59
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 172
+    classID: 1
+    packedSize: 59
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 173
+    classID: 1
+    packedSize: 55
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 174
+    classID: 1
+    packedSize: 55
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 175
+    classID: 1
+    packedSize: 59
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 176
+    classID: 1
+    packedSize: 59
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 177
+    classID: 1
+    packedSize: 107
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 178
+    classID: 1
+    packedSize: 67
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 179
+    classID: 1
+    packedSize: 107
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 180
+    classID: 1
+    packedSize: 111
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 181
+    classID: 1
+    packedSize: 107
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 182
+    classID: 1
+    packedSize: 55
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 183
+    classID: 1
+    packedSize: 55
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 184
+    classID: 1
+    packedSize: 75
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 185
+    classID: 1
+    packedSize: 67
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 186
+    classID: 1
+    packedSize: 67
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 187
+    classID: 1
+    packedSize: 59
+    sourceAssetGUID: 4ad3dc7b23f39b54b8587d894a14c251
+    buildTimeAssetPath: Assets/Prefabs/Warning.prefab
+  - fileID: 188
+    classID: 1
+    packedSize: 59
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 189
+    classID: 1
+    packedSize: 59
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 190
+    classID: 1
+    packedSize: 47
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 191
+    classID: 1
+    packedSize: 55
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 192
+    classID: 1
+    packedSize: 55
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 193
+    classID: 1
+    packedSize: 99
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 194
+    classID: 1
+    packedSize: 99
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 195
+    classID: 1
+    packedSize: 67
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 196
+    classID: 1
+    packedSize: 67
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 197
+    classID: 1
+    packedSize: 107
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 198
+    classID: 1
+    packedSize: 107
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 199
+    classID: 1
+    packedSize: 59
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 200
+    classID: 1
+    packedSize: 55
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 201
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 202
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 203
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 204
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 4fc1e892ec928064090b3410e5f5465a
+    buildTimeAssetPath: Assets/Prefabs/WarningRED.prefab
+  - fileID: 205
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 206
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 207
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 208
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 209
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 210
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 211
+    classID: 4
+    packedSize: 152
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 212
+    classID: 4
+    packedSize: 152
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 213
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 214
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 215
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 216
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 217
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 218
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 219
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 220
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 221
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 222
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 223
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 224
+    classID: 4
+    packedSize: 92
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 225
+    classID: 4
+    packedSize: 92
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 226
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 227
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 4ad3dc7b23f39b54b8587d894a14c251
+    buildTimeAssetPath: Assets/Prefabs/Warning.prefab
+  - fileID: 228
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 229
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 230
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 231
+    classID: 4
+    packedSize: 104
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 232
+    classID: 4
+    packedSize: 104
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 233
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 234
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 235
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 236
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 237
+    classID: 4
+    packedSize: 104
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 238
+    classID: 4
+    packedSize: 152
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 239
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 240
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 241
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 242
+    classID: 4
+    packedSize: 68
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 243
+    classID: 50
+    packedSize: 64
+    sourceAssetGUID: 4fc1e892ec928064090b3410e5f5465a
+    buildTimeAssetPath: Assets/Prefabs/WarningRED.prefab
+  - fileID: 244
+    classID: 58
+    packedSize: 48
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 245
+    classID: 58
+    packedSize: 48
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 246
+    classID: 58
+    packedSize: 48
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 247
+    classID: 58
+    packedSize: 48
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 248
+    classID: 58
+    packedSize: 48
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 249
+    classID: 58
+    packedSize: 48
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 250
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 251
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 252
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 253
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 254
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 255
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 256
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 257
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 258
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 4fc1e892ec928064090b3410e5f5465a
+    buildTimeAssetPath: Assets/Prefabs/WarningRED.prefab
+  - fileID: 259
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 260
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 261
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 262
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 263
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 264
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 265
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 266
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 267
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 268
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 269
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 270
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 271
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 272
+    classID: 61
+    packedSize: 112
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 273
+    classID: 95
+    packedSize: 56
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 274
+    classID: 95
+    packedSize: 56
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 275
+    classID: 95
+    packedSize: 56
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 276
+    classID: 95
+    packedSize: 56
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 277
+    classID: 95
+    packedSize: 56
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 278
+    classID: 95
+    packedSize: 56
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 279
+    classID: 95
+    packedSize: 56
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 280
+    classID: 95
+    packedSize: 56
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 281
+    classID: 198
+    packedSize: 7376
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 282
+    classID: 198
+    packedSize: 7376
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 283
+    classID: 198
+    packedSize: 7376
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 284
+    classID: 198
+    packedSize: 7376
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 285
+    classID: 198
+    packedSize: 7408
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 286
+    classID: 198
+    packedSize: 7408
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 287
+    classID: 198
+    packedSize: 7376
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 288
+    classID: 198
+    packedSize: 7376
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 289
+    classID: 198
+    packedSize: 7408
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 290
+    classID: 198
+    packedSize: 7408
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 291
+    classID: 198
+    packedSize: 7408
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 292
+    classID: 198
+    packedSize: 7408
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 293
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 294
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 295
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 296
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 297
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 298
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 299
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 300
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 301
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 302
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 303
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 304
+    classID: 199
+    packedSize: 268
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 305
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 306
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 307
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 308
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 309
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 310
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 4fc1e892ec928064090b3410e5f5465a
+    buildTimeAssetPath: Assets/Prefabs/WarningRED.prefab
+  - fileID: 311
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 312
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 4ad3dc7b23f39b54b8587d894a14c251
+    buildTimeAssetPath: Assets/Prefabs/Warning.prefab
+  - fileID: 313
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 314
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 315
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 316
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 317
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 318
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 319
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 320
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 321
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 322
+    classID: 212
+    packedSize: 192
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 323
+    classID: 331
+    packedSize: 160
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 324
+    classID: 331
+    packedSize: 160
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 325
+    classID: 331
+    packedSize: 160
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 326
+    classID: 331
+    packedSize: 160
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 327
+    classID: 331
+    packedSize: 160
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 328
+    classID: 331
+    packedSize: 160
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 329
+    classID: 114
+    packedSize: 4032
+    sourceAssetGUID: 3eb72fd7a4cd4054586e9a2d28fa8f4e
+    buildTimeAssetPath: Assets/Fonts/baveuse.asset
+  - fileID: 330
+    classID: 114
+    packedSize: 252
+    sourceAssetGUID: 846827c30610b3045980878ab9caf487
+    buildTimeAssetPath: Assets/Resources/Sprites/leaf.asset
+  - fileID: 331
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 332
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 333
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 334
+    classID: 114
+    packedSize: 40
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 335
+    classID: 114
+    packedSize: 36
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 336
+    classID: 114
+    packedSize: 36
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 337
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 338
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 339
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 340
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 341
+    classID: 114
+    packedSize: 60
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 342
+    classID: 114
+    packedSize: 60
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 343
+    classID: 114
+    packedSize: 36
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 344
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 345
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 346
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 347
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 4ad3dc7b23f39b54b8587d894a14c251
+    buildTimeAssetPath: Assets/Prefabs/Warning.prefab
+  - fileID: 348
+    classID: 114
+    packedSize: 36
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 349
+    classID: 114
+    packedSize: 40
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 350
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 351
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 352
+    classID: 114
+    packedSize: 60
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 353
+    classID: 114
+    packedSize: 60
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 354
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 355
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 356
+    classID: 114
+    packedSize: 40
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 357
+    classID: 114
+    packedSize: 40
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 358
+    classID: 114
+    packedSize: 36
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 359
+    classID: 114
+    packedSize: 36
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 360
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 361
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 794feb6a3b9476a438cfe33e9806c4a3
+    buildTimeAssetPath: Assets/Prefabs/smaller.prefab
+  - fileID: 362
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 93e2404fd8129e043be82774993a33a0
+    buildTimeAssetPath: Assets/Prefabs/SplashRightSide.prefab
+  - fileID: 363
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 364
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 7bd9a4198be99eb43b1b960715f8f58d
+    buildTimeAssetPath: Assets/Prefabs/new Obstacle.prefab
+  - fileID: 365
+    classID: 114
+    packedSize: 108
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 366
+    classID: 114
+    packedSize: 108
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 367
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 368
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 369
+    classID: 114
+    packedSize: 40
+    sourceAssetGUID: 896793ae90fd195498fe11e33192a91f
+    buildTimeAssetPath: Assets/Prefabs/LeftGroup.prefab
+  - fileID: 370
+    classID: 114
+    packedSize: 40
+    sourceAssetGUID: 9efe3edafb10fe448b2bd86eb4f9da81
+    buildTimeAssetPath: Assets/Prefabs/RightGroup.prefab
+  - fileID: 371
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 2079f0ddea7818c459721daa66290416
+    buildTimeAssetPath: Assets/Prefabs/SplashLeftSide.prefab
+  - fileID: 372
+    classID: 114
+    packedSize: 32
+    sourceAssetGUID: 4fc1e892ec928064090b3410e5f5465a
+    buildTimeAssetPath: Assets/Prefabs/WarningRED.prefab
+--- !u!1126 &6669153216087385575
+PackedAssets:
+  m_File: 32
+  m_ShortPath: 312ba5b9e90627940866e19549a788cf
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 49
+    packedSize: 312
+    sourceAssetGUID: 312ba5b9e90627940866e19549a788cf
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+--- !u!1126 &7038833979719721987
+PackedAssets:
+  m_File: 35
+  m_ShortPath: 438defe6a2827704f90bdf852732bc11
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 109
+    packedSize: 16
+    sourceAssetGUID: 438defe6a2827704f90bdf852732bc11
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc
+--- !u!1126 &7251474274903589793
+PackedAssets:
+  m_File: 37
+  m_ShortPath: 4a7755d6b5b67874f89c85f56f95fe97
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 48
+    packedSize: 16960
+    sourceAssetGUID: 4a7755d6b5b67874f89c85f56f95fe97
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+--- !u!1126 &7282679471212130335
+PackedAssets:
+  m_File: 47
+  m_ShortPath: 9ecb3fe313cb5f7478141eba4a2d54ed
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 48
+    packedSize: 13180
+    sourceAssetGUID: 9ecb3fe313cb5f7478141eba4a2d54ed
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+--- !u!1126 &7427922534494490972
+PackedAssets:
+  m_File: 43
+  m_ShortPath: 88dc19c5874aabc43aaaaa05b0e8165d
+  m_Overhead: 4100
+  m_Contents:
+  - fileID: 1
+    classID: 28
+    packedSize: 1638500
+    sourceAssetGUID: 88dc19c5874aabc43aaaaa05b0e8165d
+    buildTimeAssetPath: Assets/Resources/Sprites/a 1.png
+  - fileID: 2
+    classID: 213
+    packedSize: 2892
+    sourceAssetGUID: 88dc19c5874aabc43aaaaa05b0e8165d
+    buildTimeAssetPath: Assets/Resources/Sprites/a 1.png
+--- !u!1126 &7446355276989503487
+PackedAssets:
+  m_File: 61
+  m_ShortPath: globalgamemanagers.assets
+  m_Overhead: 4323
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 109
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 21
+    packedSize: 312
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 3
+    classID: 28
+    packedSize: 441316
+    sourceAssetGUID: 7b53d54e52c1e9d4d90b22af63088d97
+    buildTimeAssetPath: Assets/Resources/Sprites/logo.png
+  - fileID: 4
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 5
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 6
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 7
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 8
+    classID: 115
+    packedSize: 124
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 9
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 10
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 11
+    classID: 115
+    packedSize: 124
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 12
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 13
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 14
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 15
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 16
+    classID: 115
+    packedSize: 144
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+  - fileID: 17
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 18
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 19
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 20
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 21
+    classID: 115
+    packedSize: 124
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 22
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 23
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 24
+    classID: 115
+    packedSize: 132
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 25
+    classID: 115
+    packedSize: 132
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 26
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 27
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 28
+    classID: 115
+    packedSize: 92
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 29
+    classID: 115
+    packedSize: 92
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 30
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 31
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 32
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 33
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 34
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 35
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 36
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 37
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 38
+    classID: 115
+    packedSize: 124
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 39
+    classID: 115
+    packedSize: 140
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 40
+    classID: 115
+    packedSize: 156
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+  - fileID: 41
+    classID: 115
+    packedSize: 124
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 42
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 43
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 44
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 45
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 46
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 47
+    classID: 115
+    packedSize: 100
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 48
+    classID: 115
+    packedSize: 100
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 49
+    classID: 115
+    packedSize: 164
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+  - fileID: 50
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 51
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 52
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 53
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 54
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 55
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 56
+    classID: 115
+    packedSize: 100
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 57
+    classID: 115
+    packedSize: 100
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 58
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 59
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 60
+    classID: 115
+    packedSize: 132
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 61
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 62
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 63
+    classID: 115
+    packedSize: 160
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+  - fileID: 64
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 65
+    classID: 115
+    packedSize: 120
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 66
+    classID: 115
+    packedSize: 100
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 67
+    classID: 115
+    packedSize: 100
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 68
+    classID: 115
+    packedSize: 132
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 69
+    classID: 115
+    packedSize: 132
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 70
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 71
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 72
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 73
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 74
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 75
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 76
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 77
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 78
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: 00eb8a7579bd0f24e8290d64216f97cd
+    buildTimeAssetPath: Assets/Scripts/Obstacle.cs
+  - fileID: 79
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: 0135ae868c33e1442a9acf9a076d6080
+    buildTimeAssetPath: Assets/Scripts/GameState.cs
+  - fileID: 80
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: 0d321bd5b56575e468a23537d585190f
+    buildTimeAssetPath: Assets/Scripts/GameController.cs
+  - fileID: 81
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: 12b54f052852c9246bf234bcd7936096
+    buildTimeAssetPath: Assets/Scripts/PlayerAnimator.cs
+  - fileID: 82
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: 1426ef330a9cb4c4bbe3250828eeb145
+    buildTimeAssetPath: Assets/Scripts/Destroyer.cs
+  - fileID: 83
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: 147aab6d306e71b458fc5f4344a7352d
+    buildTimeAssetPath: Assets/Scripts/PilarCollider.cs
+  - fileID: 84
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: 1b1bf2e0da2fcb8458707f16aeb68bdc
+    buildTimeAssetPath: Assets/Scripts/PlayerGroup.cs
+  - fileID: 85
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: 304876e607c9e354ca0d62ef569284bf
+    buildTimeAssetPath: Assets/Scripts/Player.cs
+  - fileID: 86
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: 338fd7bde80a7a442b80654e819e9251
+    buildTimeAssetPath: Assets/Scripts/Invisible.cs
+  - fileID: 87
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: 3fa13b74cef991e40a7b14637a5ee802
+    buildTimeAssetPath: Assets/Scripts/Helper.cs
+  - fileID: 88
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: 420e672a48c01364080c19f5f2edf645
+    buildTimeAssetPath: Assets/Scripts/SplashAnim.cs
+  - fileID: 89
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: 4290f6fa6a313d14a9959f3c2f1a14c8
+    buildTimeAssetPath: Assets/Scripts/FadeController.cs
+  - fileID: 90
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: 55234f561b0d6b541ad3c83f955fe59a
+    buildTimeAssetPath: Assets/Scripts/SoundObstacleDodge.cs
+  - fileID: 91
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: 5728f307324b879478beb2a23679b81d
+    buildTimeAssetPath: Assets/Scripts/Button.cs
+  - fileID: 92
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: 63f82535c1312a04faf196a6f46e74a2
+    buildTimeAssetPath: Assets/Scripts/ObstacleWeakCollider.cs
+  - fileID: 93
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: 6ab6cd0868a25b145bd562288422afca
+    buildTimeAssetPath: Assets/Scripts/ObstacleSideCollider.cs
+  - fileID: 94
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: 6abd760ecde611941b88b2f045e1c392
+    buildTimeAssetPath: Assets/Scripts/Spawn.cs
+  - fileID: 95
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: 7da513f24102059468e1fc712b919b64
+    buildTimeAssetPath: Assets/Scripts/Instructions.cs
+  - fileID: 96
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: 9273a226d54c97a48a7c5ed29d04e079
+    buildTimeAssetPath: Assets/Scripts/ExitUI.cs
+  - fileID: 97
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: 98789faeb0797114c9ceab196b2d0ffe
+    buildTimeAssetPath: Assets/Scripts/WallMover.cs
+  - fileID: 98
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: ad7364e72d4455443a1db6048b8d058c
+    buildTimeAssetPath: Assets/Scripts/ShopController.cs
+  - fileID: 99
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: ad8ecd910f9f1174fbea9ad31a8aeb0c
+    buildTimeAssetPath: Assets/Scripts/SideSplash.cs
+  - fileID: 100
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: bb9bc69eb6798024d9db778ce510df6e
+    buildTimeAssetPath: Assets/Scripts/ObstacleCollider.cs
+  - fileID: 101
+    classID: 115
+    packedSize: 64
+    sourceAssetGUID: c0cd02d69587c2644a2528a2c4c00570
+    buildTimeAssetPath: Assets/Scripts/Coin.cs
+  - fileID: 102
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: c9fa0544e867b864fb7458131c3ec9c7
+    buildTimeAssetPath: Assets/Scripts/WallGroupFall.cs
+  - fileID: 103
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: cacf68fe38b009c41871f334d67678b6
+    buildTimeAssetPath: Assets/Scripts/PerkController.cs
+  - fileID: 104
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: d19c83acda163fd40b88fe372f888b59
+    buildTimeAssetPath: Assets/Scripts/ShakeBehaviour.cs
+  - fileID: 105
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: d50480c7be1dbde4ca9dc8e3ff7f420a
+    buildTimeAssetPath: Assets/Scripts/Mover.cs
+  - fileID: 106
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: d781a13584a72d14c9d707583d252ffe
+    buildTimeAssetPath: Assets/Scripts/TestController.cs
+  - fileID: 107
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: d9bfe6c851737294195539330c876a87
+    buildTimeAssetPath: Assets/Scripts/Background.cs
+  - fileID: 108
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: d9e317b6b98b19a44bce5cfcfd058947
+    buildTimeAssetPath: Assets/Scripts/SoundController.cs
+  - fileID: 109
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: dfdd57e44bb489e4eb1ad588d3c6c200
+    buildTimeAssetPath: Assets/Scripts/ItemType.cs
+  - fileID: 110
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: e465a8dda2c87184496cd328c6669c2e
+    buildTimeAssetPath: Assets/Scripts/BigMover.cs
+  - fileID: 111
+    classID: 115
+    packedSize: 72
+    sourceAssetGUID: fdb08bf3fcb32344caa99934c906b525
+    buildTimeAssetPath: Assets/Scripts/Warning.cs
+  - fileID: 112
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 113
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 114
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 115
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 116
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 117
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 118
+    classID: 115
+    packedSize: 132
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 119
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 120
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 121
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 122
+    classID: 115
+    packedSize: 80
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 123
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 124
+    classID: 115
+    packedSize: 136
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 125
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 126
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 127
+    classID: 115
+    packedSize: 148
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 128
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 129
+    classID: 115
+    packedSize: 128
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 130
+    classID: 115
+    packedSize: 100
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 131
+    classID: 115
+    packedSize: 100
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 132
+    classID: 115
+    packedSize: 132
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 133
+    classID: 115
+    packedSize: 140
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 134
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 135
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 136
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 137
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 138
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 139
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 140
+    classID: 115
+    packedSize: 100
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 141
+    classID: 115
+    packedSize: 100
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 142
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 143
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 144
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 145
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 146
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 147
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 148
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 149
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 150
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 151
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 152
+    classID: 115
+    packedSize: 156
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+  - fileID: 153
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 154
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 155
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 156
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 157
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 158
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 159
+    classID: 115
+    packedSize: 144
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+  - fileID: 160
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 161
+    classID: 115
+    packedSize: 104
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 162
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 163
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 164
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 165
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 166
+    classID: 115
+    packedSize: 148
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 167
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 168
+    classID: 115
+    packedSize: 96
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 169
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 170
+    classID: 115
+    packedSize: 112
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 171
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 172
+    classID: 115
+    packedSize: 108
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 173
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: 89f0137620f6af44b9ba852b4190e64e
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 174
+    classID: 115
+    packedSize: 116
+    sourceAssetGUID: b5bd0d848a86e48409fe56688d66ecb5
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Runtime DLL/TextMeshPro-2017.3-Runtime.dll
+  - fileID: 175
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 176
+    classID: 115
+    packedSize: 88
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: C:/Program Files/Unity/Hub/Editor/2019.1.4f1/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 177
+    classID: 115
+    packedSize: 132
+    sourceAssetGUID: c9131c575d2b6464b8d6e7dbd1a25e2a
+    buildTimeAssetPath: Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll
+  - fileID: 178
+    classID: 213
+    packedSize: 2624
+    sourceAssetGUID: 7b53d54e52c1e9d4d90b22af63088d97
+    buildTimeAssetPath: Assets/Resources/Sprites/logo.png
+--- !u!114 &8672256326256411787
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13803, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetRequirements:
+    minSdkVersion: 16
+    glesMinVersion: 131072
+    openGLRequireES31AEP: 0
+    vulkanMinVersion: 0
+    targetArchitectures: 5
+  outputPath: C:/Users/Gonca/Desktop/1.apk
+  buildOptions: 8
+  buildApkPerCpuArchitecture: 0
+  buildAppBundle: 0
+  useObb: 0
+  targetArchitectures: 5
+  versionCode: 1
+  packageName: com.RandomGames.Dive
+  safeProductName: Cliff Dive
+  activityWithIntent: com.unity3d.player.UnityPlayerActivity
+  stagingArea: Temp/StagingArea
+  scriptOnlyBuild: 0
+  patchPackage: 0
+--- !u!1126 &8858534487074297829
+PackedAssets:
+  m_File: 55
+  m_ShortPath: d1cf17907700cb647aa3ea423ba38f2e
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 48
+    packedSize: 13416
+    sourceAssetGUID: d1cf17907700cb647aa3ea423ba38f2e
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+--- !u!1126 &8971919970963513590
+PackedAssets:
+  m_File: 30
+  m_ShortPath: 195d1f257f73aab4e8292f533ad4336e
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 213
+    packedSize: 812
+    sourceAssetGUID: 195d1f257f73aab4e8292f533ad4336e
+    buildTimeAssetPath: Assets/Resources/Sprites/splashside 1.png
+--- !u!1126 &9159417023123560624
+PackedAssets:
+  m_File: 52
+  m_ShortPath: b68856603b8928646830984a56406eb4
+  m_Overhead: 4100
+  m_Contents:
+  - fileID: 1
+    classID: 28
+    packedSize: 1440108
+    sourceAssetGUID: b68856603b8928646830984a56406eb4
+    buildTimeAssetPath: Assets/Resources/Sprites/icon_front.png
+  - fileID: 2
+    classID: 213
+    packedSize: 1072
+    sourceAssetGUID: b68856603b8928646830984a56406eb4
+    buildTimeAssetPath: Assets/Resources/Sprites/icon_front.png

@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: c296aaf4cf94cf3448846dd7f6d9b407
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8887015986995552202
+    second: Symbol 1 instance 10000
+  - first:
+      213: -4962492941025489435
+    second: Symbol 1 instance 10001
+  - first:
+      213: 2622980083207977993
+    second: Symbol 1 instance 10002
+  - first:
+      213: 5071597054656937287
+    second: Symbol 1 instance 10003
+  - first:
+      213: 8065665419552404053
+    second: Symbol 1 instance 10004
+  - first:
+      213: 8658567150360704959
+    second: Symbol 1 instance 10005
+  - first:
+      213: 310976773401389346
+    second: Symbol 1 instance 10006
+  - first:
+      213: 4694780056818528830
+    second: Symbol 1 instance 10007
+  - first:
+      213: -564494046071224537
+    second: Symbol 1 instance 10008
+  - first:
+      213: 3439371236940524984
+    second: Symbol 1 instance 10009
+  - first:
+      213: 7421164348926530798
+    second: Symbol 1 instance 10010
+  - first:
+      213: -2297353973462563607
+    second: Symbol 1 instance 10011
+  - first:
+      213: 107079011674387527
+    second: Symbol 1 instance 10012
+  - first:
+      213: -3493050283983726921
+    second: Symbol 1 instance 10013
+  - first:
+      213: -8160050035637081758
+    second: Symbol 1 instance 10014
+  - first:
+      213: 3788680714102570864
+    second: Symbol 1 instance 10015
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Symbol 1 instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1811
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0182ae69885e148826c11ac02ef667
+      internalID: 8887015986995552202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10001
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1811
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b9ee58708a8674e8bfbeaac3e73c77
+      internalID: -4962492941025489435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10002
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1811
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48828e63bc7b71946a11d86456588fe3
+      internalID: 2622980083207977993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1574
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd8611a7b5423445b1e1490140b44a1
+      internalID: 5071597054656937287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10004
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1574
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fafd05b4ad5229478ca20b11ded19e3
+      internalID: 8065665419552404053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10005
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1574
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2e327356dd406449285bec17cf9fcf
+      internalID: 8658567150360704959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1337
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19951997d6a3e004f8cf9fd1dde5d895
+      internalID: 310976773401389346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10007
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1337
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7408bfba480012f4bbe9c5a83542da94
+      internalID: 4694780056818528830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10008
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1337
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c2ba3d02253a14b9e3f14e48741c3d
+      internalID: -564494046071224537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fd59e6bed6d924c8c4e743077682cd
+      internalID: 3439371236940524984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10010
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1100
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9f7ce2c3d802b4083fef0e6091c4ad
+      internalID: 7421164348926530798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10011
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1100
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb096af9eafec148a5a5b4d9479ccc6
+      internalID: -2297353973462563607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fd9ec45db9443419c59c2cf271162e
+      internalID: 107079011674387527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10013
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 863
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0434d812f4bbd9d46ae6f98ca6b5d41c
+      internalID: -3493050283983726921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10014
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 863
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43562728d5d3f044d8d3e77e40d94911
+      internalID: -8160050035637081758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 instance 10015
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 309
+        height: 237
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d556fa7b134ce647b404cb077d9876e
+      internalID: 3788680714102570864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c2633b0d4a7e7146bc831951a7d0599
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
